@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yigitahmetemik
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Php, Java, JavaScript, SQL, C#
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python, Java, JavaScript, SQL, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yigitahmetemk87@gmail.com
 
